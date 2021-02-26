@@ -1,6 +1,6 @@
 {
   "name": "fivesim",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple wrapper around 5Sim API",
   "main": "/5sim/main.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "axios": "^0.21.1"
   },
   "dependencies": {
-    "axios":"latest"
+    "axios": "latest"
   },
   "repository": {
     "type": "git",
