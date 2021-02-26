@@ -1,6 +1,6 @@
 {
   "name": "fivesim",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple wrapper around 5Sim API",
   "main": "./5sim/main.js",
   "scripts": {
