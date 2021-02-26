@@ -2,7 +2,7 @@
   "name": "fivesim",
   "version": "1.0.3",
   "description": "Simple wrapper around 5Sim API",
-  "main": "index.js",
+  "main": "/5sim/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +12,9 @@
   "devDependencies": {
     "axios": "^0.21.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios":"latest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nickpick42/FiveSim.git"
