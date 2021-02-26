@@ -1,15 +1,24 @@
 {
   "name": "fivesim",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple wrapper around 5Sim API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicholas Lopez",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpick42/FiveSim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickpick42/FiveSim/issues"
+  },
+  "homepage": "https://github.com/nickpick42/FiveSim#readme"
 }
