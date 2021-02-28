@@ -10,10 +10,12 @@
   "author": "Nicholas Lopez",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "delay": "^5.0.0"
   },
   "dependencies": {
-    "axios": "latest"
+    "axios": "latest",
+    "date": "^1.0.2"
   },
   "repository": {
     "type": "git",
