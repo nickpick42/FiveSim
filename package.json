@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "axios": "latest",
-    "date": "^1.0.2"
+    "date": "^1.0.2",
+    "delay": "^5.0.0"
   },
   "repository": {
     "type": "git",
