@@ -4,7 +4,7 @@ This is an unofficial wrapper around the 5SIM API calls.
 
 
 ## Installation
-
+https://www.npmjs.com/package/fivesim
 Use the package manager [npm](https://www.npmjs.com/) to install 5sim.
 
 ```bash
